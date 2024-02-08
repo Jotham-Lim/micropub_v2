@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Taman Prai",
+			"country": {
+				"code": "MY",
+				"name": "Malaysia"
+			},
+			"subdivision": {
+				"code": "07",
+				"name": "Penang"
+			},
+			"timezone": "Asia/Kuala_Lumpur",
+			"latitude": 5.3811,
+			"longitude": 100.3854
+		},
+		"timestamp": 1707386197425
+	}
+}
